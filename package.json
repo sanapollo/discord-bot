@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^14.5.0"
+  },
+  "name": "discord-bot",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanapollo/discord-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanapollo/discord-bot/issues"
+  },
+  "homepage": "https://github.com/sanapollo/discord-bot#readme",
+  "keywords": [],
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  }
+}
